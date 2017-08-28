@@ -28,6 +28,8 @@ namespace practise2
             s.count();
             Console.WriteLine("Variable num: {0}", StaVar.getNum());
             Console.WriteLine("Hii Prajakta");
+             Console.WriteLine("Hii Prajakta123");
+            
             Console.ReadKey();
         }
     }
